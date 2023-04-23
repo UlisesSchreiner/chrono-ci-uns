@@ -1,5 +1,6 @@
 # Cronometro
 [![Build Status](https://app.travis-ci.com/UlisesSchreiner/chrono-ci-uns.svg?branch=master)](https://app.travis-ci.com/UlisesSchreiner/chrono-ci-uns)
+[![Coverage Status](https://coveralls.io/repos/github/UlisesSchreiner/chrono-ci-uns/badge.svg?branch=master)](https://coveralls.io/github/UlisesSchreiner/chrono-ci-uns?branch=master)
 
 Un cronometro que cuenta y descuenta
 
